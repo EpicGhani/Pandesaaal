@@ -1,0 +1,51 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Rural Map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Rural Buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Rural Map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5908,
+                "y": 454.6666666666666
+            }
+        },
+        "Rural Map.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.imagePath": "D:/Projects/Unity/Pandesaaal/Assets/__Content/Sprites/Maps/Rural",
+    "map.height": 256,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "1",
+    "map.orientation": "2",
+    "map.tileHeight": 16,
+    "map.width": 256,
+    "openFiles": [
+        "Rural Map.tmx",
+        "Rural Map.tsx"
+    ],
+    "project": "Map Set.tiled-project",
+    "recentFiles": [
+        "Rural Map.tsx",
+        "Rural Map.tmx",
+        "Rural Buildings.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 32
+    }
+}
